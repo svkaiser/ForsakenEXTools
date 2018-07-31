@@ -1,4 +1,5 @@
 # Forsaken EX Tools
+![alt text](https://raw.githubusercontent.com/svkaiser/ForsakenEXTools/master/image.png)
 This repo contains various python scripts for Blender that was used for developing the exclusive content for the Forsaken remaster (https://store.steampowered.com/app/668980/Forsaken_Remastered/).
 
 There are some things that are incomplete such as subdivision and full working import of .COB and .MXL files. These scripts were originally developed for personal use and as such, may not be completely user-friendly. Any contributions to further improve these scripts are always welcomed.
